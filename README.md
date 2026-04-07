@@ -45,7 +45,7 @@ The circuit consists of:
 
 ### 3D View
 
-![3D View](images/pcb_3d_view.png)
+![3D View](images/3d_view.png)
 
 The PCB is designed as a **single-layer layout** with optimized routing for power components.
 
